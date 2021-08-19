@@ -1,4 +1,4 @@
-# Udacity_CPP-Astar-algorithm-
+# Astar-algorithm-
 A* algorithm path finding using C++
 
 ![image](https://user-images.githubusercontent.com/47297221/74589870-4afcfc00-502f-11ea-8508-0ea12bd5ee11.png)
